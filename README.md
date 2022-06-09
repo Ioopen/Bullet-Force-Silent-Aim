@@ -11,7 +11,7 @@ Some very useful links that you can use if you don't know what to do
 
 [Bullet Force Source Code for Android](https://github.com/Ioopen/Bullet-Force-Source-Code-Chewy) By **Chewy** 
 
-[Bullet Force Source Code for iOS & Android](https://github.com/SliceCast/Bullet-Force-Source-Code) By **SliceCast** 
+[Bullet Force Source Code for iOS & Android](https://github.com/SliceCast/Bullet-Force-Source-Code) By **SliceCast && ToshiroZ aka Toshiro** 
 
 # Credit
 Chewy / ToshiroZ
