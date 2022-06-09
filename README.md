@@ -1,5 +1,5 @@
 # Bullet-Force-Silent-Aim
-Silent Aim for a game called Bullet force
+For the game Bullet Force
 
 # Note
 This won't include everything you need to make silent aim for obvious reasons
